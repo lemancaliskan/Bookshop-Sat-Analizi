@@ -1,0 +1,301 @@
+tarih,kitap_adi,yazar,kategori,fiyat,adet,musteri_adi
+2024-08-17,Nutuk,Mustafa Kemal Atatürk,Tarih,78,4,Deniz Kaya
+2024-03-11,Harry Potter,J.K. Rowling,Fantastik,63,5,Ayşe Yılmaz
+2024-02-01,Kürk Mantolu Madonna,Sabahattin Ali,Roman,76,1,Fatma Acar
+2024-06-05,Suç ve Ceza,Fyodor Dostoyevski,Klasik,165,1,Can Er
+2024-11-09,Sefiller,Victor Hugo,Klasik,72,4,Deniz Kaya
+2024-11-23,1984,George Orwell,Distopya,93,5,Deniz Kaya
+2024-02-16,Sefiller,Victor Hugo,Klasik,56,2,Ali Veli
+2024-08-07,Suç ve Ceza,Fyodor Dostoyevski,Klasik,178,3,Deniz Kaya
+2024-07-13,Harry Potter,J.K. Rowling,Fantastik,117,2,Zeynep Gül
+2024-01-02,1984,George Orwell,Distopya,88,1,Ayşe Yılmaz
+2024-09-16,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,153,4,Zeynep Gül
+2024-10-01,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,104,2,Fatma Acar
+2024-11-01,1984,George Orwell,Distopya,95,5,Fatma Acar
+2024-10-10,Suç ve Ceza,Fyodor Dostoyevski,Klasik,139,4,Ayşe Yılmaz
+2024-03-16,1984,George Orwell,Distopya,79,1,Ayşe Yılmaz
+2024-08-14,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,87,4,Zeynep Gül
+2024-10-24,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,166,3,Zeynep Gül
+2024-10-16,Simyacı,Paulo Coelho,Roman,98,4,Ayşe Yılmaz
+2024-05-28,Hayvan Çiftliği,George Orwell,Distopya,197,1,Deniz Kaya
+2024-10-03,Hayvan Çiftliği,George Orwell,Distopya,67,1,Zeynep Gül
+2024-05-08,Suç ve Ceza,Fyodor Dostoyevski,Klasik,83,4,Ayşe Yılmaz
+2024-01-14,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,171,1,Ali Veli
+2024-03-05,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,100,3,Ayşe Yılmaz
+2024-10-06,Simyacı,Paulo Coelho,Roman,111,5,Zeynep Gül
+2024-03-19,Suç ve Ceza,Fyodor Dostoyevski,Klasik,55,2,Zeynep Gül
+2024-02-22,Hayvan Çiftliği,George Orwell,Distopya,100,4,Zeynep Gül
+2024-03-26,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,186,5,Ayşe Yılmaz
+2024-04-21,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,114,3,Deniz Kaya
+2024-11-30,Nutuk,Mustafa Kemal Atatürk,Tarih,124,1,Mehmet Demir
+2024-08-29,Nutuk,Mustafa Kemal Atatürk,Tarih,179,1,Can Er
+2024-02-14,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,199,2,Deniz Kaya
+2024-01-17,Kürk Mantolu Madonna,Sabahattin Ali,Roman,166,3,Ali Veli
+2024-11-10,Hayvan Çiftliği,George Orwell,Distopya,102,1,Zeynep Gül
+2024-07-28,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,173,2,Can Er
+2024-10-20,Sefiller,Victor Hugo,Klasik,96,3,Can Er
+2024-12-12,Sefiller,Victor Hugo,Klasik,122,1,Mehmet Demir
+2024-02-19,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,81,1,Can Er
+2024-07-01,Hayvan Çiftliği,George Orwell,Distopya,121,5,Deniz Kaya
+2024-12-30,Hayvan Çiftliği,George Orwell,Distopya,71,1,Fatma Acar
+2024-08-23,1984,George Orwell,Distopya,149,3,Ayşe Yılmaz
+2024-05-22,Sefiller,Victor Hugo,Klasik,172,4,Ayşe Yılmaz
+2024-01-03,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,142,1,Fatma Acar
+2024-10-03,Harry Potter,J.K. Rowling,Fantastik,65,5,Fatma Acar
+2024-06-03,Harry Potter,J.K. Rowling,Fantastik,125,4,Mehmet Demir
+2024-03-25,Hayvan Çiftliği,George Orwell,Distopya,175,2,Can Er
+2024-10-14,Nutuk,Mustafa Kemal Atatürk,Tarih,141,2,Can Er
+2024-01-31,Harry Potter,J.K. Rowling,Fantastik,100,5,Zeynep Gül
+2024-01-27,Kürk Mantolu Madonna,Sabahattin Ali,Roman,186,4,Ayşe Yılmaz
+2024-12-28,Nutuk,Mustafa Kemal Atatürk,Tarih,119,1,Mehmet Demir
+2024-09-20,Sefiller,Victor Hugo,Klasik,137,1,Ali Veli
+2024-09-16,Hayvan Çiftliği,George Orwell,Distopya,54,4,Fatma Acar
+2024-10-08,1984,George Orwell,Distopya,98,4,Can Er
+2024-08-28,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,170,4,Can Er
+2024-06-18,Kürk Mantolu Madonna,Sabahattin Ali,Roman,95,1,Deniz Kaya
+2024-02-09,1984,George Orwell,Distopya,157,4,Can Er
+2024-10-21,Sefiller,Victor Hugo,Klasik,161,4,Deniz Kaya
+2024-09-18,Kürk Mantolu Madonna,Sabahattin Ali,Roman,121,2,Ayşe Yılmaz
+2024-10-30,Nutuk,Mustafa Kemal Atatürk,Tarih,194,2,Can Er
+2024-11-09,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,90,2,Ali Veli
+2024-04-20,Harry Potter,J.K. Rowling,Fantastik,167,2,Mehmet Demir
+2024-02-04,Nutuk,Mustafa Kemal Atatürk,Tarih,76,1,Ayşe Yılmaz
+2024-08-23,1984,George Orwell,Distopya,59,4,Zeynep Gül
+2024-03-27,Simyacı,Paulo Coelho,Roman,123,3,Ayşe Yılmaz
+2024-09-14,1984,George Orwell,Distopya,116,2,Can Er
+2024-05-23,Simyacı,Paulo Coelho,Roman,120,4,Can Er
+2024-01-17,Hayvan Çiftliği,George Orwell,Distopya,186,3,Mehmet Demir
+2024-02-17,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,103,4,Zeynep Gül
+2024-09-20,Suç ve Ceza,Fyodor Dostoyevski,Klasik,170,3,Ali Veli
+2024-09-29,Nutuk,Mustafa Kemal Atatürk,Tarih,124,4,Mehmet Demir
+2024-03-13,Suç ve Ceza,Fyodor Dostoyevski,Klasik,171,1,Deniz Kaya
+2024-02-10,1984,George Orwell,Distopya,151,4,Zeynep Gül
+2024-01-30,Simyacı,Paulo Coelho,Roman,96,1,Can Er
+2024-02-08,1984,George Orwell,Distopya,71,5,Ayşe Yılmaz
+2024-04-10,Sefiller,Victor Hugo,Klasik,76,1,Deniz Kaya
+2024-02-04,1984,George Orwell,Distopya,55,5,Mehmet Demir
+2024-10-13,Kürk Mantolu Madonna,Sabahattin Ali,Roman,111,1,Ali Veli
+2024-01-05,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,144,5,Fatma Acar
+2024-03-18,Hayvan Çiftliği,George Orwell,Distopya,157,2,Mehmet Demir
+2024-10-06,Harry Potter,J.K. Rowling,Fantastik,160,1,Mehmet Demir
+2024-04-08,Suç ve Ceza,Fyodor Dostoyevski,Klasik,51,3,Mehmet Demir
+2024-03-07,1984,George Orwell,Distopya,114,3,Can Er
+2024-08-28,Sefiller,Victor Hugo,Klasik,61,4,Ali Veli
+2024-04-15,Hayvan Çiftliği,George Orwell,Distopya,164,1,Ali Veli
+2024-04-14,Simyacı,Paulo Coelho,Roman,192,5,Deniz Kaya
+2024-08-21,Hayvan Çiftliği,George Orwell,Distopya,149,2,Ayşe Yılmaz
+2024-04-08,Suç ve Ceza,Fyodor Dostoyevski,Klasik,106,1,Can Er
+2024-10-07,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,100,1,Mehmet Demir
+2024-10-14,Suç ve Ceza,Fyodor Dostoyevski,Klasik,64,5,Zeynep Gül
+2024-07-25,Simyacı,Paulo Coelho,Roman,152,4,Deniz Kaya
+2024-04-22,Kürk Mantolu Madonna,Sabahattin Ali,Roman,135,4,Deniz Kaya
+2024-06-23,Hayvan Çiftliği,George Orwell,Distopya,141,4,Ali Veli
+2024-03-23,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,112,3,Fatma Acar
+2024-03-21,Kürk Mantolu Madonna,Sabahattin Ali,Roman,72,4,Zeynep Gül
+2024-04-10,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,136,4,Deniz Kaya
+2024-12-18,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,92,5,Ali Veli
+2024-02-22,Sefiller,Victor Hugo,Klasik,88,1,Zeynep Gül
+2024-12-22,1984,George Orwell,Distopya,114,4,Fatma Acar
+2024-11-14,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,132,2,Deniz Kaya
+2024-10-01,Suç ve Ceza,Fyodor Dostoyevski,Klasik,172,3,Ayşe Yılmaz
+2024-01-23,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,163,3,Deniz Kaya
+2024-02-10,Kürk Mantolu Madonna,Sabahattin Ali,Roman,135,5,Ali Veli
+2024-08-21,1984,George Orwell,Distopya,86,2,Zeynep Gül
+2024-09-18,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,103,4,Can Er
+2024-01-25,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,79,1,Can Er
+2024-08-31,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,141,2,Zeynep Gül
+2024-05-26,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,73,2,Ayşe Yılmaz
+2024-10-19,Kürk Mantolu Madonna,Sabahattin Ali,Roman,75,3,Mehmet Demir
+2024-03-08,Sefiller,Victor Hugo,Klasik,182,1,Deniz Kaya
+2024-11-07,Nutuk,Mustafa Kemal Atatürk,Tarih,92,3,Ali Veli
+2024-04-01,Sefiller,Victor Hugo,Klasik,157,5,Fatma Acar
+2024-02-25,Harry Potter,J.K. Rowling,Fantastik,99,5,Zeynep Gül
+2024-08-29,Sefiller,Victor Hugo,Klasik,138,4,Deniz Kaya
+2024-11-12,Sefiller,Victor Hugo,Klasik,149,3,Ali Veli
+2024-05-20,Hayvan Çiftliği,George Orwell,Distopya,157,1,Ayşe Yılmaz
+2024-03-29,Suç ve Ceza,Fyodor Dostoyevski,Klasik,70,5,Mehmet Demir
+2024-07-14,1984,George Orwell,Distopya,108,2,Ali Veli
+2024-11-09,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,127,5,Ayşe Yılmaz
+2024-11-02,Suç ve Ceza,Fyodor Dostoyevski,Klasik,152,3,Fatma Acar
+2024-05-29,Sefiller,Victor Hugo,Klasik,154,5,Mehmet Demir
+2024-12-06,Nutuk,Mustafa Kemal Atatürk,Tarih,162,2,Zeynep Gül
+2024-08-02,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,92,3,Zeynep Gül
+2024-05-13,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,121,5,Can Er
+2024-01-02,Kürk Mantolu Madonna,Sabahattin Ali,Roman,54,1,Mehmet Demir
+2024-01-19,Suç ve Ceza,Fyodor Dostoyevski,Klasik,167,4,Ayşe Yılmaz
+2024-05-30,Kürk Mantolu Madonna,Sabahattin Ali,Roman,76,4,Mehmet Demir
+2024-07-30,Suç ve Ceza,Fyodor Dostoyevski,Klasik,125,4,Ayşe Yılmaz
+2024-01-06,1984,George Orwell,Distopya,124,3,Deniz Kaya
+2024-02-19,1984,George Orwell,Distopya,65,2,Mehmet Demir
+2024-08-13,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,81,2,Ayşe Yılmaz
+2024-01-05,Hayvan Çiftliği,George Orwell,Distopya,130,3,Fatma Acar
+2024-06-01,1984,George Orwell,Distopya,79,2,Ali Veli
+2024-12-15,Sefiller,Victor Hugo,Klasik,121,4,Deniz Kaya
+2024-02-02,Simyacı,Paulo Coelho,Roman,119,3,Deniz Kaya
+2024-12-28,Suç ve Ceza,Fyodor Dostoyevski,Klasik,162,2,Mehmet Demir
+2024-04-24,Nutuk,Mustafa Kemal Atatürk,Tarih,144,5,Fatma Acar
+2024-03-07,Simyacı,Paulo Coelho,Roman,108,2,Zeynep Gül
+2024-05-29,Simyacı,Paulo Coelho,Roman,74,3,Ali Veli
+2024-05-10,Simyacı,Paulo Coelho,Roman,178,3,Mehmet Demir
+2024-08-31,Sefiller,Victor Hugo,Klasik,185,1,Ali Veli
+2024-02-12,Hayvan Çiftliği,George Orwell,Distopya,106,3,Deniz Kaya
+2024-02-10,Kürk Mantolu Madonna,Sabahattin Ali,Roman,110,5,Fatma Acar
+2024-07-20,Harry Potter,J.K. Rowling,Fantastik,114,1,Fatma Acar
+2024-01-12,Nutuk,Mustafa Kemal Atatürk,Tarih,103,4,Zeynep Gül
+2024-09-12,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,190,1,Zeynep Gül
+2024-04-25,Hayvan Çiftliği,George Orwell,Distopya,126,5,Zeynep Gül
+2024-07-20,Harry Potter,J.K. Rowling,Fantastik,141,1,Mehmet Demir
+2024-07-18,Harry Potter,J.K. Rowling,Fantastik,113,4,Fatma Acar
+2024-10-10,Kürk Mantolu Madonna,Sabahattin Ali,Roman,102,4,Can Er
+2024-11-25,Hayvan Çiftliği,George Orwell,Distopya,156,1,Deniz Kaya
+2024-11-29,Hayvan Çiftliği,George Orwell,Distopya,52,5,Fatma Acar
+2024-07-22,Harry Potter,J.K. Rowling,Fantastik,98,1,Ali Veli
+2024-01-25,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,77,2,Can Er
+2024-08-31,Kürk Mantolu Madonna,Sabahattin Ali,Roman,111,3,Can Er
+2024-02-23,1984,George Orwell,Distopya,163,1,Can Er
+2024-10-17,Kürk Mantolu Madonna,Sabahattin Ali,Roman,68,4,Mehmet Demir
+2024-12-20,Simyacı,Paulo Coelho,Roman,125,5,Ali Veli
+2024-12-22,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,140,2,Ayşe Yılmaz
+2024-08-28,Hayvan Çiftliği,George Orwell,Distopya,167,1,Ali Veli
+2024-08-29,Sefiller,Victor Hugo,Klasik,129,3,Mehmet Demir
+2024-12-22,Simyacı,Paulo Coelho,Roman,134,3,Deniz Kaya
+2024-09-03,Kürk Mantolu Madonna,Sabahattin Ali,Roman,193,2,Deniz Kaya
+2024-08-15,1984,George Orwell,Distopya,138,4,Fatma Acar
+2024-04-12,Kürk Mantolu Madonna,Sabahattin Ali,Roman,120,4,Zeynep Gül
+2024-09-09,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,153,4,Ali Veli
+2024-07-13,Kürk Mantolu Madonna,Sabahattin Ali,Roman,57,2,Zeynep Gül
+2024-12-10,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,182,3,Zeynep Gül
+2024-04-09,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,72,4,Deniz Kaya
+2024-02-09,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,159,4,Fatma Acar
+2024-11-26,Suç ve Ceza,Fyodor Dostoyevski,Klasik,62,4,Mehmet Demir
+2024-07-21,Sefiller,Victor Hugo,Klasik,130,2,Fatma Acar
+2024-03-26,Nutuk,Mustafa Kemal Atatürk,Tarih,80,2,Deniz Kaya
+2024-03-08,1984,George Orwell,Distopya,77,4,Fatma Acar
+2024-03-31,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,171,1,Mehmet Demir
+2024-11-06,Harry Potter,J.K. Rowling,Fantastik,130,4,Ayşe Yılmaz
+2024-10-23,Kürk Mantolu Madonna,Sabahattin Ali,Roman,164,2,Can Er
+2024-04-01,Harry Potter,J.K. Rowling,Fantastik,81,3,Can Er
+2024-10-25,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,137,3,Ayşe Yılmaz
+2024-03-14,Suç ve Ceza,Fyodor Dostoyevski,Klasik,127,4,Fatma Acar
+2024-02-12,1984,George Orwell,Distopya,75,3,Zeynep Gül
+2024-11-28,Kürk Mantolu Madonna,Sabahattin Ali,Roman,84,3,Can Er
+2024-01-25,Kürk Mantolu Madonna,Sabahattin Ali,Roman,116,5,Zeynep Gül
+2024-09-27,Hayvan Çiftliği,George Orwell,Distopya,145,3,Zeynep Gül
+2024-02-22,Suç ve Ceza,Fyodor Dostoyevski,Klasik,107,3,Mehmet Demir
+2024-09-29,Hayvan Çiftliği,George Orwell,Distopya,104,5,Ayşe Yılmaz
+2024-12-23,Nutuk,Mustafa Kemal Atatürk,Tarih,92,3,Ali Veli
+2024-02-04,Kürk Mantolu Madonna,Sabahattin Ali,Roman,142,1,Ali Veli
+2024-05-29,Hayvan Çiftliği,George Orwell,Distopya,168,3,Can Er
+2024-05-11,Suç ve Ceza,Fyodor Dostoyevski,Klasik,190,3,Zeynep Gül
+2024-01-26,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,174,4,Can Er
+2024-09-21,Nutuk,Mustafa Kemal Atatürk,Tarih,190,4,Mehmet Demir
+2024-12-06,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,184,1,Deniz Kaya
+2024-10-31,Suç ve Ceza,Fyodor Dostoyevski,Klasik,111,2,Ayşe Yılmaz
+2024-04-25,Hayvan Çiftliği,George Orwell,Distopya,79,4,Fatma Acar
+2024-02-16,Suç ve Ceza,Fyodor Dostoyevski,Klasik,112,3,Deniz Kaya
+2024-01-27,Kürk Mantolu Madonna,Sabahattin Ali,Roman,116,5,Can Er
+2024-09-24,Harry Potter,J.K. Rowling,Fantastik,74,5,Fatma Acar
+2024-12-02,Kürk Mantolu Madonna,Sabahattin Ali,Roman,184,4,Zeynep Gül
+2024-04-19,Sefiller,Victor Hugo,Klasik,114,2,Can Er
+2024-12-03,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,85,3,Deniz Kaya
+2024-09-18,1984,George Orwell,Distopya,127,1,Mehmet Demir
+2024-10-01,Harry Potter,J.K. Rowling,Fantastik,161,3,Zeynep Gül
+2024-03-23,1984,George Orwell,Distopya,177,1,Deniz Kaya
+2024-01-13,1984,George Orwell,Distopya,55,5,Ayşe Yılmaz
+2024-06-01,Sefiller,Victor Hugo,Klasik,95,1,Ali Veli
+2024-12-23,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,188,4,Zeynep Gül
+2024-12-24,Simyacı,Paulo Coelho,Roman,125,1,Ayşe Yılmaz
+2024-05-03,Kürk Mantolu Madonna,Sabahattin Ali,Roman,117,1,Mehmet Demir
+2024-08-26,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,170,5,Fatma Acar
+2024-06-02,Hayvan Çiftliği,George Orwell,Distopya,197,4,Ayşe Yılmaz
+2024-12-17,Hayvan Çiftliği,George Orwell,Distopya,188,1,Mehmet Demir
+2024-07-21,Nutuk,Mustafa Kemal Atatürk,Tarih,88,4,Mehmet Demir
+2024-03-12,Hayvan Çiftliği,George Orwell,Distopya,127,4,Mehmet Demir
+2024-01-29,Kürk Mantolu Madonna,Sabahattin Ali,Roman,164,1,Deniz Kaya
+2024-09-09,1984,George Orwell,Distopya,69,3,Zeynep Gül
+2024-02-11,1984,George Orwell,Distopya,140,2,Can Er
+2024-02-09,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,65,4,Ali Veli
+2024-04-29,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,143,5,Can Er
+2024-06-01,Simyacı,Paulo Coelho,Roman,102,2,Ayşe Yılmaz
+2024-03-14,Nutuk,Mustafa Kemal Atatürk,Tarih,162,4,Fatma Acar
+2024-01-07,Harry Potter,J.K. Rowling,Fantastik,52,3,Mehmet Demir
+2024-02-24,Nutuk,Mustafa Kemal Atatürk,Tarih,136,1,Deniz Kaya
+2024-12-13,Simyacı,Paulo Coelho,Roman,66,5,Mehmet Demir
+2024-11-02,1984,George Orwell,Distopya,176,5,Ayşe Yılmaz
+2024-08-01,Harry Potter,J.K. Rowling,Fantastik,53,5,Mehmet Demir
+2024-08-16,1984,George Orwell,Distopya,98,3,Zeynep Gül
+2024-05-05,Kürk Mantolu Madonna,Sabahattin Ali,Roman,62,4,Fatma Acar
+2024-02-06,1984,George Orwell,Distopya,188,4,Can Er
+2024-07-10,Sefiller,Victor Hugo,Klasik,94,3,Ayşe Yılmaz
+2024-11-06,Simyacı,Paulo Coelho,Roman,186,1,Mehmet Demir
+2024-10-16,Harry Potter,J.K. Rowling,Fantastik,134,1,Deniz Kaya
+2024-04-26,Harry Potter,J.K. Rowling,Fantastik,77,4,Ayşe Yılmaz
+2024-10-13,1984,George Orwell,Distopya,157,4,Fatma Acar
+2024-08-17,Sefiller,Victor Hugo,Klasik,69,3,Zeynep Gül
+2024-07-09,Suç ve Ceza,Fyodor Dostoyevski,Klasik,104,2,Zeynep Gül
+2024-10-29,Hayvan Çiftliği,George Orwell,Distopya,134,3,Ayşe Yılmaz
+2024-12-20,Suç ve Ceza,Fyodor Dostoyevski,Klasik,191,2,Mehmet Demir
+2024-05-24,1984,George Orwell,Distopya,65,3,Ali Veli
+2024-03-29,Hayvan Çiftliği,George Orwell,Distopya,129,2,Ayşe Yılmaz
+2024-03-13,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,155,2,Mehmet Demir
+2024-03-27,Simyacı,Paulo Coelho,Roman,200,5,Ayşe Yılmaz
+2024-05-29,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,58,1,Can Er
+2024-01-02,Kürk Mantolu Madonna,Sabahattin Ali,Roman,107,4,Deniz Kaya
+2024-08-28,Hayvan Çiftliği,George Orwell,Distopya,148,4,Deniz Kaya
+2024-01-22,Hayvan Çiftliği,George Orwell,Distopya,129,5,Zeynep Gül
+2024-01-25,Suç ve Ceza,Fyodor Dostoyevski,Klasik,74,5,Can Er
+2024-02-21,1984,George Orwell,Distopya,85,4,Fatma Acar
+2024-03-09,1984,George Orwell,Distopya,179,3,Zeynep Gül
+2024-06-27,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,55,3,Ali Veli
+2024-04-23,1984,George Orwell,Distopya,142,4,Ali Veli
+2024-03-27,Hayvan Çiftliği,George Orwell,Distopya,159,5,Deniz Kaya
+2024-02-17,Nutuk,Mustafa Kemal Atatürk,Tarih,132,1,Zeynep Gül
+2024-06-15,Suç ve Ceza,Fyodor Dostoyevski,Klasik,170,5,Ali Veli
+2024-06-08,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,59,5,Mehmet Demir
+2024-08-12,Hayvan Çiftliği,George Orwell,Distopya,165,1,Ali Veli
+2024-01-15,Nutuk,Mustafa Kemal Atatürk,Tarih,79,5,Fatma Acar
+2024-10-16,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,51,2,Fatma Acar
+2024-07-20,Kürk Mantolu Madonna,Sabahattin Ali,Roman,112,5,Ali Veli
+2024-04-27,Kürk Mantolu Madonna,Sabahattin Ali,Roman,65,3,Mehmet Demir
+2024-08-08,Sefiller,Victor Hugo,Klasik,179,1,Deniz Kaya
+2024-05-11,Hayvan Çiftliği,George Orwell,Distopya,140,2,Ali Veli
+2024-02-02,Hayvan Çiftliği,George Orwell,Distopya,101,5,Deniz Kaya
+2024-09-22,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,50,5,Zeynep Gül
+2024-08-10,Sefiller,Victor Hugo,Klasik,148,3,Can Er
+2024-09-10,Nutuk,Mustafa Kemal Atatürk,Tarih,106,4,Ali Veli
+2024-06-25,Simyacı,Paulo Coelho,Roman,161,2,Ali Veli
+2024-04-09,Kürk Mantolu Madonna,Sabahattin Ali,Roman,91,3,Fatma Acar
+2024-09-15,Kürk Mantolu Madonna,Sabahattin Ali,Roman,190,4,Mehmet Demir
+2024-09-25,Hayvan Çiftliği,George Orwell,Distopya,98,4,Ali Veli
+2024-07-05,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,76,5,Mehmet Demir
+2024-06-03,Nutuk,Mustafa Kemal Atatürk,Tarih,141,5,Deniz Kaya
+2024-11-18,Suç ve Ceza,Fyodor Dostoyevski,Klasik,83,1,Can Er
+2024-12-04,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,159,2,Ali Veli
+2024-06-03,Harry Potter,J.K. Rowling,Fantastik,96,5,Fatma Acar
+2024-06-03,1984,George Orwell,Distopya,105,1,Mehmet Demir
+2024-06-28,Sefiller,Victor Hugo,Klasik,98,2,Ali Veli
+2024-07-05,Simyacı,Paulo Coelho,Roman,167,5,Ali Veli
+2024-04-23,Hayvan Çiftliği,George Orwell,Distopya,88,4,Deniz Kaya
+2024-06-16,Nutuk,Mustafa Kemal Atatürk,Tarih,100,2,Mehmet Demir
+2024-12-03,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,163,2,Ayşe Yılmaz
+2024-02-19,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,120,1,Ayşe Yılmaz
+2024-10-07,Harry Potter,J.K. Rowling,Fantastik,189,4,Fatma Acar
+2024-01-02,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,199,4,Deniz Kaya
+2024-05-15,Harry Potter,J.K. Rowling,Fantastik,53,5,Fatma Acar
+2024-02-04,Hayvan Çiftliği,George Orwell,Distopya,75,1,Fatma Acar
+2024-08-31,Suç ve Ceza,Fyodor Dostoyevski,Klasik,148,4,Can Er
+2024-03-16,Suç ve Ceza,Fyodor Dostoyevski,Klasik,75,3,Can Er
+2024-12-31,Kürk Mantolu Madonna,Sabahattin Ali,Roman,161,3,Mehmet Demir
+2024-12-31,Harry Potter,J.K. Rowling,Fantastik,73,3,Zeynep Gül
+2024-01-24,Suç ve Ceza,Fyodor Dostoyevski,Klasik,168,5,Fatma Acar
+2024-12-07,Suç ve Ceza,Fyodor Dostoyevski,Klasik,162,3,Fatma Acar
+2024-02-12,Yüzüklerin Efendisi,J.R.R. Tolkien,Fantastik,92,1,Ali Veli
+2024-08-21,Nutuk,Mustafa Kemal Atatürk,Tarih,104,1,Deniz Kaya
+2024-04-14,Küçük Prens,Antoine de Saint-Exupéry,Çocuk,68,5,Ayşe Yılmaz
+2024-01-25,Sefiller,Victor Hugo,Klasik,123,4,Fatma Acar
+2024-06-15,Hayvan Çiftliği,George Orwell,Distopya,102,3,Deniz Kaya
+2024-04-15,Harry Potter,J.K. Rowling,Fantastik,57,5,Ayşe Yılmaz
+2024-03-12,Nutuk,Mustafa Kemal Atatürk,Tarih,166,1,Ali Veli
+2024-04-12,Hayvan Çiftliği,George Orwell,Distopya,187,5,Mehmet Demir
+2024-09-22,Suç ve Ceza,Fyodor Dostoyevski,Klasik,173,5,Deniz Kaya
+2024-12-16,Hayvan Çiftliği,George Orwell,Distopya,131,2,Fatma Acar
